@@ -27,5 +27,41 @@ body {
 
 img {
   display: block;
-  width: 100%;
+  width: 100%;  
 }
+
+.caption {
+position: relative;
+top: -7rem;
+color: white;
+font-size: 1.3rem;
+font-family: georgia;
+font-style: italic;
+}
+
+.header {
+    font-size: 1.5rem;
+    margin: o auto 1; 
+}
+
+.box1 {
+color: grey;
+float: left;
+margin: 0 15% 0 0;
+}
+
+.box2{
+color: grey;
+float: left;
+margin: 0 15% 0 0;
+}
+
+.box3 {
+color: grey;
+float: left;
+margin: 0 15% 0 0;
+}
+
+
+
+
